@@ -1,7 +1,7 @@
 ```python
 >>> import shenbin
 >>> shenbin.greeting
-"Hi, I'm Shenbin Qian, PhD student in NLP from the University of Surrey. Nice to meet you!"
+"Hi, I'm Shenbin Qian, PhD student in NLP from the University of Surrey, UK. Nice to meet you!"
 >>> shenbin.research_interest
 ["machine translation", 'sentiment analysis', 'sequence labeling', 'text mining']
 >>> shenbin.language
