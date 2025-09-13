@@ -1,9 +1,9 @@
 ```python
 >>> import shenbin
 >>> shenbin.greeting
-"Hi, I'm Shenbin Qian, a postdoc researcher in NLP at Univeristy of Oslo. I did my PhD at University of Surrey. It's nice to meet you!"
+"Hi, I'm Shenbin Qian, a postdoc in NLP at Univeristy of Oslo. I did my PhD at University of Surrey. It's nice to meet you!"
 >>> shenbin.research_interest
-["machine translation evaluation", 'sentiment analysis', 'information retrieval', 'multimodel understanding/generation']
+["multilingual evaluation", 'sentiment analysis', 'information retrieval', 'multimodel understanding']
 >>> shenbin.language
 {"programming language": ["python", "c++", "R"], "natural language":["Mandarin", "Wu (Shanghainese)", "English"]}
 >>> shenbin.hobby
